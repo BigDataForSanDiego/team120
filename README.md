@@ -2,12 +2,12 @@
 
 # team120
 
-Team Memebers
+Team Members
 Joshua
 Andrew
 Jeremy
 Joey
-Ahamed
+Ahmed
 Cade
 Alex
 Jamie
