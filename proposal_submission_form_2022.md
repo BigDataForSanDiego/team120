@@ -5,7 +5,7 @@
 #### Team Name: San Diego Miramar College Computer Science Club
   
 #### Your team’s hackathon idea in One sentence:
-##### A self learning, voice enabled, mobile and hotline application that diagnoses patient's conditions and recommends healthcare providers.
+##### A self learning, voice enabled, mobile and hotline application that diagnoses patients' conditions and recommends healthcare providers.
 
 
 #### A visual
