@@ -6,7 +6,7 @@
   
 #### Your team’s hackathon idea in One sentence:
 ##### Self learning, voice enabled medical condition diagnoser, and healthcare provider recommender.
-
+##### A self learning, voice enabled, mobile application that diagnosis patients' conditions and recommends healthcare providers.
 
 #### A visual
 ![robotdoc](https://raw.githubusercontent.com/BigDataForSanDiego/team120/main/images/robotdoc.jpg?raw=true "Robot Doctor")  
